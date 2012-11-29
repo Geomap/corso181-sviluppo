@@ -1,0 +1,56 @@
+h1 { 
+	border: 4px solid green;
+	margin: 15px;
+	padding: 15px; 
+	}
+
+h2 { border: 1px solid purple; }
+
+p { border: 1px solid brown; }
+
+h1.titolo_rosso { color: red; }
+
+
+
+#sottotitolo
+{
+  border: 1px solid green;
+}
+
+#main
+{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid red;
+  padding: 15px;
+}
+.sottolineato
+{
+  text-decoration:underline;
+  border: 1px solid green;
+  font-weight: bolder;
+  margin-left: 10px;
+  padding-top: 15px;
+}
+
+li { 
+	display: inline;
+	background-image: url(btn_background.png);
+	border-radius: 5px;
+	padding: 0 5px;
+}
+
+li:hover { 
+	background-image: url(btn_background2.png);
+}
+
+li a:hover { 
+	color: blue;
+}
+
+li a
+{
+  text-decoration: none;
+  color: navy;
+}

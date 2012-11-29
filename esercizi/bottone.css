@@ -1,0 +1,31 @@
+	.menu
+	h1 {
+	border: 1px solid black;
+}
+
+div {
+	float: left;
+	background-image: url(button-sprite.png);
+	border-radius: 5px;
+	width: 277px;
+	height: 80px;
+	}
+
+li { 
+	display: inline;
+	background-position: 0 12;
+	background-image: url(button-sprite.png);
+	border-radius: 5px;
+	padding-top: 24px;
+	padding-bottom: 40;
+	padding-left: 110px;
+	padding-right: 166px;
+}
+
+div:hover { 
+	background-position: 0 80;
+}
+
+div:active { 
+	background-position: 0 160;
+}

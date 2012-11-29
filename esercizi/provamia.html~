@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+	<H1>Esempi di liste</H1>
+	<UL>
+	<LI>Mele</LI>
+	<LI>Pele</LI>
+	<LI>Banane</LI>
+	</UL>
+<BR><BR>
+	<OL>
+	<LI>Mele</LI>
+	<LI>Pele</LI>
+	<LI>Banane</LI>
+	</OL>
+<BR><BR>
+    <UL>
+        <LI>
+	    Verdure
+	    <UL>
+	        <LI>Lattuga</LI>
+	        <LI>Carote</LI>
+	    </UL>
+        </LI>
+        <LI>
+	    Frutta
+	    <UL>
+	        <LI>Banana</LI>
+	        <LI>Lampone</LI>
+	    </UL>
+       </LI>
+       <LI>
+	   Minerali
+	   <UL>
+	       <LI>Cristalli</LI>
+	           <UL>
+                       <LI>Diamante</LI>
+                           <UL>
+                               <LI>Giallo</LI>
+                               <LI>Rosa</LI>
+                           </UL>
+                   </UL>
+          </UL>
+     </UL>
+<BR><BR>
+    <OL>
+        <LI>
+	    Verdure
+	    <OL>
+	        <LI>Lattuga</LI>
+	        <LI>Carote</LI>
+	    </OL>
+        </LI>
+        <LI>
+	    Frutta
+	    <OL>
+	        <LI>Banana</LI>
+	        <LI>Lampone</LI>
+	    </OL>
+       </LI>
+       <LI>
+	   Minerali
+	   <OL>
+	       <LI>Cristalli</LI>
+	           <OL>
+                     <LI>Diamante</LI>
+                       <OL>
+                         <LI>Giallo</LI>
+                         <LI>Rosa</LI>
+                       </OL>
+                   </OL>
+          </OL>
+     </OL>
+</BODY>
+</HTML>

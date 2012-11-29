@@ -1,0 +1,33 @@
+body {
+	background-color: #F0ECD6;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li { 
+	border: 1px solid black; 
+	margin-left: -30px; 
+}
+
+#left-col
+{
+  float: left;
+  width: 213px;
+  font-family: Georgia;
+  font-style: italic;
+  color: #990;
+}
+
+.menu { 
+	background-image:url('menu-right-col.png'); 
+	background-repeat:repeat-y; 
+	background-position:right; 
+}
+
+#menu-head {
+	width: 213px;
+	height: 92px;
+	background-image: url(menu-head.png);
+}
