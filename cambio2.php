@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="stile-form.css">
+		-- <link rel="stylesheet" type="text/css" href="stile-form.css">
 	</head>
 	<body>
 		<?php

@@ -9,6 +9,10 @@
 		$Affitto_lordo_annuo = $_POST['Capitale'];
 		$Aliquota = $_POST['Aliquota'];
 		$IMU = $_POST['Imu'];
+		$a = $Affitto_netto_su_12_mesi;
+		$b = $Affitto_lordo_annuo;
+		$c = $Aliquota;
+		$d = $IMU;
 		?>
 		
 		<form method="POST">
